@@ -1,6 +1,11 @@
-.odd-line{
+.odd-line,
+.diff {
     background-color:rgb(192, 107, 159);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.diff {
+    font-size: 24px;
 }
 
 #bluey {
